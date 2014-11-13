@@ -1,0 +1,9 @@
+Building VirtualCoin
+
+See doc/readme-qt.rst for instructions on building VirtualCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of VirtualCoin.
+
+See doc/build-*.txt for instructions on building virtualcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of VirtualCoin.
